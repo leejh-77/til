@@ -2,7 +2,7 @@
 Today I learned
 
 ### Go
-* [error 객체 정의](go/defining_error_object.md)
+* [error 객체 정의](go/error_객체정의.md)
 
 ### Mysql
 * [auto increment](mysql/autoincrement.md)
