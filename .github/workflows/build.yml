@@ -1,0 +1,20 @@
+name: build readme
+on:
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - README.md
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: action/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: golang
+        uses: action/setup-go@v2
+      - name: gen
+        run:
+          go run .
