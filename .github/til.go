@@ -32,7 +32,7 @@ func main() {
 
 func deleteReadme() {
 	if f, _ := os.Stat("../README.md"); f != nil {
-		err := os.Remove("../" + f.Name())
+		err := os.Remove("../README.md")
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -48,6 +48,7 @@ func generate(path string, buffer *bytes.Buffer) {
 	}
 	for _, f := range fs {
 		fn := f.Name()
+		log.Println(fn)
 		n := fn[:len(fn) - 3] // slice '.md' extension
 		buffer.WriteString("* [" + n + "](" + path + "/" + pathString(fn) + ")\n")
 	}
