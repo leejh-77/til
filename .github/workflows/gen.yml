@@ -18,7 +18,7 @@ jobs:
       - name: gen
         run:
           go run .github/til.go
-      - name: Commit and push if README changed
+      - name: push
         run: |-
           git diff
           git config --global user.email "stanleylee0707@gmail.com"
