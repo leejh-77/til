@@ -10,7 +10,7 @@ import (
 func main() {
 	deleteReadme()
 
-	files, err := ioutil.ReadDir("./")
+	files, err := ioutil.ReadDir("../")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -24,15 +24,15 @@ func main() {
 		}
 	}
 
-	err = ioutil.WriteFile("README.md", buffer.Bytes(), 0644)
+	err = ioutil.WriteFile("../README.md", buffer.Bytes(), 0644)
 	if err != nil {
 		log.Fatal(err)
 	}
 }
 
 func deleteReadme() {
-	if f, _ := os.Stat("README.md"); f != nil {
-		err := os.Remove("./" + f.Name())
+	if f, _ := os.Stat("../README.md"); f != nil {
+		err := os.Remove("../" + f.Name())
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -42,7 +42,7 @@ func deleteReadme() {
 func generate(path string, buffer *bytes.Buffer) {
 	buffer.WriteString("### " + path + "\n")
 
-	fs, err := ioutil.ReadDir("./" + path)
+	fs, err := ioutil.ReadDir("../" + path)
 	if err != nil {
 		log.Fatal(err)
 	}
