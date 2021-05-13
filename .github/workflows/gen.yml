@@ -17,8 +17,8 @@ jobs:
         uses: actions/setup-go@v2
       - name: gen
         run:
-          go run .
-      - name: Commit and push if README changed
+          go run .github/til.go
+      - name: push
         run: |-
           git diff
           git config --global user.email "stanleylee0707@gmail.com"
