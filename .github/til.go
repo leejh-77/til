@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"strings"
 )
 
 func main() {
@@ -50,20 +51,8 @@ func generate(path string, buffer *bytes.Buffer) {
 		fn := f.Name()
 		log.Println(fn)
 		n := fn[:len(fn) - 3] // slice '.md' extension
-		buffer.WriteString("* [" + n + "](" + path + "/" + pathString(fn) + ")\n")
+		buffer.WriteString("* [" + n + "](" + path + "/" + strings.ReplaceAll(fn, " ", "$20") + ")\n")
 	}
-}
-
-func pathString(str string) string {
-	b := bytes.Buffer{}
-	for _, c := range str {
-		if c == ' ' {
-			b.WriteString("%20")
-		} else {
-			b.WriteRune(c)
-		}
-	}
-	return b.String()
 }
 
 
