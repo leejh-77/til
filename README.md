@@ -6,6 +6,7 @@ Today I learned
 * [github action](github/github%20action.md)
 ### go
 * [error 생성하기](go/error%20생성하기.md)
+* [구조체 json 옵션](go/구조체%20json%20옵션.md)
 * [숫자 동등성 체크](go/숫자%20동등성%20체크.md)
 ### http
 * [cookie 관련 옵션](http/cookie%20관련%20옵션.md)
