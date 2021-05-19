@@ -14,5 +14,7 @@ Today I learned
 * [dig 네임서버 쿼리](linux/dig%20네임서버%20쿼리.md)
 ### mysql
 * [autoincrement](mysql/autoincrement.md)
+### python
+* [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### swift
 * [swift 와 objective-c 같이쓰기](swift/swift%20와%20objective-c%20같이쓰기.md)
