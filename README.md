@@ -13,6 +13,8 @@ Today I learned
 * [구조체 json 옵션](go/구조체%20json%20옵션.md)
 * [숫자 동등성 체크](go/숫자%20동등성%20체크.md)
 * [함수 overloading](go/함수%20overloading.md)
+### graphql
+* [http status code](graphql/http%20status%20code.md)
 ### http
 * [cookie 관련 옵션](http/cookie%20관련%20옵션.md)
 * [http3 - Quic](http/http3%20-%20Quic.md)
