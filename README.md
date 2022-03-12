@@ -29,6 +29,8 @@ Today I learned
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### spring
 * [@RequestBody](spring/@RequestBody.md)
+* [@Scheduled](spring/@Scheduled.md)
+* [batch job 시작시 실행 방지](spring/batch%20job%20시작시%20실행%20방지.md)
 * [jackson 주의점](spring/jackson%20주의점.md)
 ### swift
 * [swift 와 objective-c 같이쓰기](swift/swift%20와%20objective-c%20같이쓰기.md)
