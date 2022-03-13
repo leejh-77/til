@@ -28,6 +28,7 @@ Today I learned
 ### python
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### spring
+* [ @AuthenticationPrincipal](spring/%20@AuthenticationPrincipal.md)
 * [@RequestBody](spring/@RequestBody.md)
 * [@Scheduled](spring/@Scheduled.md)
 * [batch job 시작시 실행 방지](spring/batch%20job%20시작시%20실행%20방지.md)
