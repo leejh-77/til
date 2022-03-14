@@ -24,6 +24,8 @@ Today I learned
 * [multipart와 put method](http/multipart와%20put%20method.md)
 ### java
 * [익명 클래스 참조](java/익명%20클래스%20참조.md)
+### javascript
+* [export](javascript/export.md)
 ### linux
 * [dig 네임서버 쿼리](linux/dig%20네임서버%20쿼리.md)
 ### mysql
