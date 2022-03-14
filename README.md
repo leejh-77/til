@@ -42,6 +42,8 @@ Today I learned
 * [swift 와 objective-c 같이쓰기](swift/swift%20와%20objective-c%20같이쓰기.md)
 ### vue
 * [$refs](vue/$refs.md)
+* [config.globalproperties](vue/config.globalproperties.md)
 * [emit](vue/emit.md)
+* [mitt](vue/mitt.md)
 * [prototype 동적 변수](vue/prototype%20동적%20변수.md)
 * [proxy server](vue/proxy%20server.md)
