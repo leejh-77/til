@@ -5,6 +5,8 @@ Today I learned
 ### css
 * [display flex](css/display%20flex.md)
 * [position fixed](css/position%20fixed.md)
+### docker
+* [run --rm](docker/run%20--rm.md)
 ### encoding
 * [base64url](encoding/base64url.md)
 ### github
