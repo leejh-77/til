@@ -34,6 +34,8 @@ Today I learned
 * [autoincrement](mysql/autoincrement.md)
 ### python
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
+### rabbitmq
+* [amqp](rabbitmq/amqp.md)
 ### spring
 * [ @AuthenticationPrincipal](spring/%20@AuthenticationPrincipal.md)
 * [@RequestBody](spring/@RequestBody.md)
