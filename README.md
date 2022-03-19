@@ -32,12 +32,14 @@ Today I learned
 * [dig 네임서버 쿼리](linux/dig%20네임서버%20쿼리.md)
 ### mysql
 * [autoincrement](mysql/autoincrement.md)
+* [select for update](mysql/select%20for%20update.md)
 ### python
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### rabbitmq
 * [amqp](rabbitmq/amqp.md)
 ### spring
 * [ @AuthenticationPrincipal](spring/%20@AuthenticationPrincipal.md)
+* [@Async](spring/@Async.md)
 * [@RequestBody](spring/@RequestBody.md)
 * [@Scheduled](spring/@Scheduled.md)
 * [batch job 시작시 실행 방지](spring/batch%20job%20시작시%20실행%20방지.md)
