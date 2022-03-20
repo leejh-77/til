@@ -46,6 +46,7 @@ Today I learned
 * [@RequestBody](spring/@RequestBody.md)
 * [@Scheduled](spring/@Scheduled.md)
 * [batch job 시작시 실행 방지](spring/batch%20job%20시작시%20실행%20방지.md)
+* [h2database](spring/h2database.md)
 * [jackson 주의점](spring/jackson%20주의점.md)
 * [swagger](spring/swagger.md)
 * [프록시 객체](spring/프록시%20객체.md)
