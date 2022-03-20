@@ -35,6 +35,8 @@ Today I learned
 ### mysql
 * [autoincrement](mysql/autoincrement.md)
 * [select for update](mysql/select%20for%20update.md)
+### os
+* [선점형, 비선점형 스케줄링](os/선점형,%20비선점형%20스케줄링.md)
 ### python
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### rabbitmq
