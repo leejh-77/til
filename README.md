@@ -8,6 +8,7 @@ Today I learned
 ### database
 * [stored procedure](database/stored%20procedure.md)
 ### docker
+* [docker-compose](docker/docker-compose.md)
 * [run --rm](docker/run%20--rm.md)
 ### encoding
 * [base64url](encoding/base64url.md)
