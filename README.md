@@ -35,6 +35,7 @@ Today I learned
 ### mysql
 * [autoincrement](mysql/autoincrement.md)
 * [select for update](mysql/select%20for%20update.md)
+* [storage engine](mysql/storage%20engine.md)
 ### os
 * [선점형, 비선점형 스케줄링](os/선점형,%20비선점형%20스케줄링.md)
 ### python
