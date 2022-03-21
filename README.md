@@ -34,6 +34,7 @@ Today I learned
 * [dig 네임서버 쿼리](linux/dig%20네임서버%20쿼리.md)
 ### mysql
 * [autoincrement](mysql/autoincrement.md)
+* [query cache](mysql/query%20cache.md)
 * [select for update](mysql/select%20for%20update.md)
 * [storage engine](mysql/storage%20engine.md)
 ### os
