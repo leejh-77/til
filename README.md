@@ -40,6 +40,7 @@ Today I learned
 ### mysql
 * [InnoDB](mysql/InnoDB.md)
 * [autoincrement](mysql/autoincrement.md)
+* [clustering index](mysql/clustering%20index.md)
 * [query cache](mysql/query%20cache.md)
 * [select for update](mysql/select%20for%20update.md)
 * [storage engine](mysql/storage%20engine.md)
