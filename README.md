@@ -25,6 +25,8 @@ Today I learned
 * [함수 overloading](go/함수%20overloading.md)
 ### graphql
 * [http status code](graphql/http%20status%20code.md)
+### hardware
+* [hdd, ssd](hardware/hdd,%20ssd.md)
 ### http
 * [cookie 관련 옵션](http/cookie%20관련%20옵션.md)
 * [http3 - Quic](http/http3%20-%20Quic.md)
