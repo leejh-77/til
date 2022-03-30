@@ -51,6 +51,8 @@ Today I learned
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### rabbitmq
 * [amqp](rabbitmq/amqp.md)
+### software design
+* [설계 원칙](software design/설계%20원칙.md)
 ### spring
 * [@Async](spring/@Async.md)
 * [@AuthenticationPrincipal](spring/@AuthenticationPrincipal.md)
