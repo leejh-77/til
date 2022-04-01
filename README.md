@@ -1,6 +1,8 @@
 # til
 Today I learned
 ### algorithm
+* [kmp](algorithm/kmp.md)
+* [stable sort, in-place](algorithm/stable%20sort,%20in-place.md)
 * [플로이드-와샬](algorithm/플로이드-와샬.md)
 ### clojure
 * [영속 자료구조](clojure/영속%20자료구조.md)
