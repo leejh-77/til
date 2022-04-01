@@ -56,7 +56,7 @@ Today I learned
 ### rabbitmq
 * [amqp](rabbitmq/amqp.md)
 ### software design
-* [설계 원칙](software design/설계%20원칙.md)
+* [설계 원칙](software%20design/설계%20원칙.md)
 ### spring
 * [@Async](spring/@Async.md)
 * [@AuthenticationPrincipal](spring/@AuthenticationPrincipal.md)
