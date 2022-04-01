@@ -47,12 +47,12 @@ func generate(path string, buffer *bytes.Buffer) {
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	path = strings.ReplaceAll(path, " ", "%20")
 	for _, f := range fs {
 		fn := f.Name()
 		log.Println(fn)
-		n := fn[:len(fn) - 3] // slice '.md' extension
+		n := fn[:len(fn)-3] // slice '.md' extension
 		buffer.WriteString("* [" + n + "](" + path + "/" + strings.ReplaceAll(fn, " ", "%20") + ")\n")
 	}
 }
-
-
