@@ -30,6 +30,7 @@ Today I learned
 ### hardware
 * [hdd, ssd](hardware/hdd,%20ssd.md)
 ### http
+* [SSE](http/SSE.md)
 * [cookie 관련 옵션](http/cookie%20관련%20옵션.md)
 * [cookie 종류](http/cookie%20종류.md)
 * [http3 - Quic](http/http3%20-%20Quic.md)
