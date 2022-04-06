@@ -56,6 +56,8 @@ Today I learned
 * [virtualenv 가상환경](python/virtualenv%20가상환경.md)
 ### rabbitmq
 * [amqp](rabbitmq/amqp.md)
+### redis
+* [RDB,AOF](redis/RDB,AOF.md)
 ### software design
 * [설계 원칙](software%20design/설계%20원칙.md)
 ### spring
