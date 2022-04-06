@@ -14,6 +14,8 @@ Today I learned
 ### docker
 * [docker-compose](docker/docker-compose.md)
 * [run --rm](docker/run%20--rm.md)
+### elastic search
+* [inverted index](elastic%20search/inverted%20index.md)
 ### encoding
 * [base64url](encoding/base64url.md)
 ### github
@@ -42,6 +44,8 @@ Today I learned
 * [export](javascript/export.md)
 ### linux
 * [dig 네임서버 쿼리](linux/dig%20네임서버%20쿼리.md)
+### msa
+* [CQRS](msa/CQRS.md)
 ### mysql
 * [InnoDB](mysql/InnoDB.md)
 * [autoincrement](mysql/autoincrement.md)
